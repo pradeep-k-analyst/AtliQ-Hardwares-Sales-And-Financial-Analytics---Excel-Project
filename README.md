@@ -1,4 +1,4 @@
-# AtliQ Hardwares Data Analytics Project Report
+# AtliQ Hardwares Data Analytics Project
 
 ## :bar_chart: Company Overview
 
